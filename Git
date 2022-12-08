@@ -1,0 +1,2 @@
+git config --global user.name "Mónica Juárez"
+git config --global user.email "jmorenomonica@gmail.com"
